@@ -5,6 +5,6 @@ Volume = Height * Radius ** 2 * 3.14
 Lateral_Surface = Radius * Height * 3.14 * 2
 Total_Surface = (Radius * Height * 3.14 * 2) + (2) * (Radius ** 2 * 3.14)
 
-print("Valume of Cylinder is %.2f" %Volume )
-print("Lateral Surface of Cylinder is %.2f" %Lateral_Surface)
-print("Total Surface of Cylinder is %.2f" %Total_Surface)
+print("Valume of Cylinder is :" ,Volume )
+print("Lateral Surface of Cylinder is :" ,Lateral_Surface)
+print("Total Surface of Cylinder is :f" ,Total_Surface)
