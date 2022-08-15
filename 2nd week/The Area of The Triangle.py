@@ -3,4 +3,4 @@ Hight = int(float(input("enter the Hight of the triangle : ")))
 
 area = Base * Hight * 2
 
-print("Area of the triangle is %.2f" %area )
+print("Area of the triangle is :" ,area )
