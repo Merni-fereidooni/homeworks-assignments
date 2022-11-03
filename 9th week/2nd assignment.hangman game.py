@@ -19,7 +19,7 @@ c_character_list = ['A' , 'B' , 'C' , 'D' , 'E' , 'F' , 'G' , 'H' , 'I' , 'J' , 
 while True:    
     os.system("cls")
     print(Fore.GREEN + (f.renderText("HANGMAN")) + Style.RESET_ALL)
-    commence = input(f"welcome press '{Fore.RED}S{Style.RESET_ALL}' for start and '{Fore.RED}Q{Style.RESET_ALL}' to quit the game!")
+    commence = input(f"welcome press '{Fore.RED}S{Style.RESET_ALL}' for start and '{Fore.RED}Q{Style.RESET_ALL}' to quit the game: ")
     
 
 
