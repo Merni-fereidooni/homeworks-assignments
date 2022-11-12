@@ -1,5 +1,6 @@
 import random
 import os
+import pyfiglet
 from pyfiglet import Figlet
 from colorama import Fore
 from colorama import Style
